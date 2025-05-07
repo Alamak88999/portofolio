@@ -121,5 +121,5 @@ document.addEventListener('keydown', function(e) {
 //open at 404
 const to = document.getElementById("to");
 to.addEventListener('click', function() {
-  window.location.href = "https://alamak88999.github.io/portofolio-/alert/alert.html";
+  window.location.href = "https://alamak88999.github.io/portofolio/alert/alert.html";
 });
